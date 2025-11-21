@@ -1,0 +1,5 @@
+{
+  "name": " DesignGenie AI",
+  "description": "An AI-powered design studio that generates templates for posters, business cards, banners, and social media posts using Google Gemini.",
+  "requestFramePermissions": []
+}
